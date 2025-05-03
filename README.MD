@@ -1,11 +1,7 @@
 # Hello, I’m Loukas Vetoulis 👋
 
-A highly motivated and results-driven software developer from Glyfada, Athens.  
+A highly motivated and results-driven Software Engineer from Glyfada, Athens.  
 Dedicated to continuous learning and professional growth, with a strong focus on automated solutions, data science, and robust back-end systems.
-
----
-
-**Software Engineer**
 
 ---
 ## 📋 Table of Contents
