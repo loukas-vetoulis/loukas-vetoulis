@@ -1,4 +1,4 @@
-# Loukas Vetoulis
+# Hello, I’m Loukas Vetoulis 👋
 
 **Software Engineer | Automated Solutions & Data Science Enthusiast**
 
@@ -77,7 +77,7 @@ ICE ROLL Glyfada | Apr 2023 – Mar 2024
 ## 📫 Contact
 
 - **Email:** [loukasvetoulis@gmail.com](mailto:loukasvetoulis@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/loukas-vetoulis](https://www.linkedin.com/in/loukas-vetoulis)  
+- **LinkedIn:** [linkedin.com/in/loukas-vetoulis](www.linkedin.com/in/loukas-vetoulis-483b892b8)  
 - **GitHub:** [github.com/loukas-vetoulis](https://github.com/loukas-vetoulis)
 
 ---
