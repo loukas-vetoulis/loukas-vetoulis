@@ -49,11 +49,11 @@ ICE ROLL Glyfada | Apr 2023 – Mar 2024
 
 | Project | Description | Technology |
 |---|---|---|
-| [LSTM-ML-Compare](https://github.com/loukas-vetoulis/LSTM-ML-Compare) | Comparison of LSTM models vs. traditional ML classifiers on time-series data. | Python, PyTorch, Scikit-learn |
-| [C-SGG-Asteroids-Arcade](https://github.com/loukas-vetoulis/C-SGG-Asteroids-Arcade) | 2D arcade-style game engine featuring collision detection and power-ups. | C++, SGG |
-| [Ai-Chatbot](https://github.com/loukas-vetoulis/Ai-Chatbot) | Chatbot implementing NLP pipelines and context-aware responses. | Python, Transformers |
-| [AUEB-Ai-Project-Assignment](https://github.com/loukas-vetoulis/AUEB-Ai-Project-Assigment) | University AI project with data preprocessing and model evaluation. | Java |
-| [FreeFooders](https://github.com/loukas-vetoulis/FreeFooders) | Campus meal-sharing platform with user authentication and order tracking. | Java |
+| [LSTM-ML-Compare](https://github.com/loukas-vetoulis/LSTM-ML-Compare) | Comparison of LSTM models vs. traditional ML classifiers on time IMBD Dataset. | Python, PyTorch, Scikit-learn |
+| [C-SGG-Asteroids-Arcade](https://github.com/loukas-vetoulis/C-SGG-Asteroids-Arcade) | 2D arcade-style asteroids game featuring collision detection and power-ups. | C++, SGG |
+| [Ai-Chatbot](https://github.com/loukas-vetoulis/Ai-Chatbot) | FUll-Stack Chatbot integrated with Chatgpt | Python |
+| [AUEB-Ai-Project-Assignment](https://github.com/loukas-vetoulis/AUEB-Ai-Project-Assigment) | A* Algorithm implementation. | Java |
+| [FreeFooders](https://github.com/loukas-vetoulis/FreeFooders) | Distributed System | Java |
 
 ---
 
