@@ -1,12 +1,11 @@
 # Hello, I’m Loukas Vetoulis 👋
 
-**Software Engineer | Automated Solutions & Data Science Enthusiast**
+A highly motivated and results-driven software developer from Glyfada, Athens.  
+Dedicated to continuous learning and professional growth, with a strong focus on automated solutions, data science, and robust back-end systems.
 
 ---
 
-## 📖 About Me
-
-I am a motivated and results-driven software developer based in Glyfada, Athens, with a strong focus on building robust back-end systems, automation pipelines, and data-driven solutions. My experience spans across banking terminal automations, sentiment analysis models, multi-threaded systems, and game engines. I thrive in collaborative environments and continuously seek opportunities to learn and innovate.
+**Software Engineer**
 
 ---
 ## 📋 Table of Contents
@@ -59,27 +58,31 @@ ICE ROLL Glyfada | Apr 2023 – Mar 2024
 
 ## 🎓 Education & Achievements
 
-- **B.Sc. in Informatics**, Athens University of Economics & Business (AUEB) | Oct 2022 – Present  
-  - Ranked 51st in department admissions (2022).
+- **B.Sc. in Informatics**, Athens University of Economics & Business (AUEB) — 10/2022–Present  
+  - Ranked **51st** in Informatics department admissions (2022)
 - **High School Diploma**, 2nd General High School of Glyfada (2022)  
-  - 1st place in Panhellenic Exams for Economics & Informatics Sciences.  
-  - Awarded top honors in national mathematics competitions.
+  - 1st place in Panhellenic Exams for Economics & Informatics Sciences  
+  - 2nd place at Romvos Tutorial Center  
+- **Honors & Awards**  
+  - Commendations from the 9th & 10th Mathematics Competitions, Hellenic Mathematical Society  
+  - Participant, MIT Global Startup Workshop 2023 (Athens)
 
 ---
 
 ## 🌐 Languages & Hobbies
 
-- **Languages:** Greek (Native), English (B2 – Michigan Language Assessment)  
-- **Interests:** Software Engineering, Machine Learning, Programming, Cinema, Reading
+- **Greek** (Native)  
+- **English** (B2 – Michigan Language Assessment)
+
+**Hobbies:** Programming, Sports, Cinema, Reading
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [loukasvetoulis@gmail.com](mailto:loukasvetoulis@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/loukas-vetoulis](www.linkedin.com/in/loukas-vetoulis-483b892b8)  
-- **GitHub:** [github.com/loukas-vetoulis](https://github.com/loukas-vetoulis)
+- 📧 [loukasvetoulis@gmail.com](mailto:loukasvetoulis@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BWbCArU5JSGOZ%2BnGz8wG%2FaQ%3D%3D)  
 
 ---
 
-"Committed to leveraging knowledge and skills to drive innovation and deliver impactful software solutions."
+> “Committed to leveraging knowledge and skills to contribute to future innovations.” 
