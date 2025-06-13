@@ -182,7 +182,7 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 ---
 
 ## 🌍 **Beyond the Code**
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -193,6 +193,7 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 
 </td>
 <td width="50%">
+</div>
 
 ### 🎯 **Passions**
 - 💻 Continuous learning & innovation
