@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<pre align="center">
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║                    S O F T W A R E   E N G I N E E R          ║
@@ -10,7 +11,7 @@
 ║                            — Steve Jobs                       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
+</pre>
 📍 Athens, Greece | 🎯 Available for collaboration
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loukasvetoulis@gmail.com)
