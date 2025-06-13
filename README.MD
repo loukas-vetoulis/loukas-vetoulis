@@ -61,12 +61,15 @@ graph TD
 
 </div>
 
+<div align="center">
+
 | 🎯 **Impact Area** | 🔧 **Solution** | 📊 **Result** |
 |:---:|:---:|:---:|
 | **Error Management** | Automated monitoring system | Real-time issue resolution |
 | **Data Pipeline** | Python-based log parsing | Streamlined operations |
 | **Visualization** | Interactive dashboards | Actionable insights |
 | **QA Automation** | Android EFTPOS testing | Enhanced reliability |
+</div>
 
 ---
 
@@ -167,13 +170,15 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 
 </div>
 
+<div align="center">
+
 | 🏅 **Achievement** | 📊 **Metric** |
 |:---|:---:|
 | **Competitive Admission** | Ranked **51st** nationally |
 | **Panhellenic Excellence** | **1st place** in Economics & Informatics |
 | **Mathematical Recognition** | Multiple **HMS** commendations |
 | **Innovation Exposure** | **MIT** Global Startup Workshop 2023 |
-
+</div>
 ---
 
 ## 🌍 **Beyond the Code**
@@ -208,13 +213,14 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 ### Ready for clarity in your next project?
 
 *If you value thoughtful, business-driven software that delivers quiet power through elegant simplicity—let's start a conversation.*
+<div align="center">
 
 ```
 🎯 Available for: Custom Software Development
 🔧 Specializing in: Automation • AI Integration • System Architecture  
 📅 Approach: Listen First • Design Smart • Build Right
 ```
-
+</div>
 **Get in touch:**
 
 [![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](mailto:loukasvetoulis@gmail.com)
@@ -229,6 +235,6 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 
 *"Simplicity crafted through vision and precision."*
 
-**© 2025 Loukas-Nikolaos Vetoulis** 
+**© 2024 Loukas-Nikolaos Vetoulis** 
 
 </div>
