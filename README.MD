@@ -1,6 +1,6 @@
-<div align="center">
-
 # ✨ Loukas-Nikolaos Vetoulis
+
+<div align="center">
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
@@ -17,9 +17,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loukas-vetoulis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
 
+</div>
+
 ---
 
 ## 🎭 **The Philosophy**
+
+<table>
+<tr>
+<td width="60%">
 
 > *"I work with a limited number of clients to ensure each project receives the focus it needs to succeed. Every engagement begins with listening—gaining a deep understanding of your business, your challenges, and your goals. From there, I lead with clarity, simplify where it matters, and execute with precision—delivering solutions that are not only effective but built to last."*
 
@@ -28,12 +34,32 @@
 - 🛠️ **Maintainability** as foundation
 - 📈 **Results** that drive real value
 
+</td>
+<td width="40%">
+
+```mermaid
+graph TD
+    A[Listen] --> B[Understanding business]
+    B --> C[Lead with Clarity and Vision]
+    C --> D[Simplify]
+    D --> E[Execute with Precision]
+    E --> F[Deliver Excellence]
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 **Current Mission**
 
+<div align="center">
+
 ### Software Engineer @ Mellon Group
 *Banking Excellence Through Automation*
+
+</div>
 
 | 🎯 **Impact Area** | 🔧 **Solution** | 📊 **Result** |
 |:---:|:---:|:---:|
@@ -46,21 +72,28 @@
 
 ## 🎨 **Technology Palette**
 
+<div align="center">
+
 ### **Primary Stack**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ### **Specialized Tools**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+</div>
+
 ---
 
 ## 🏆 **Selected Projects**
 
-### 🧠 LSTM vs Traditional ML Comparison
+<details>
+<summary><b>🧠 LSTM vs Traditional ML Comparison</b></summary>
+
 ```yaml
 Project: LSTM-ML-Compare
 Vision: Advanced neural network analysis
@@ -69,8 +102,11 @@ Stack: Python | PyTorch | Scikit-learn
 Link: https://github.com/loukas-vetoulis/LSTM-ML-Compare
 ```
 **What makes it special:** Rigorous comparison methodology revealing when complex beats simple.
+</details>
 
-### 🎮 Performance-Optimized Asteroids Game
+<details>
+<summary><b>🎮 Performance-Optimized Asteroids Game</b></summary>
+
 ```yaml
 Project: C-SGG-Asteroids-Arcade  
 Vision: Silky-smooth 2D gaming experience
@@ -79,8 +115,11 @@ Stack: C++ | SGG Graphics Engine
 Link: https://github.com/loukas-vetoulis/C-SGG-Asteroids-Arcade
 ```
 **What makes it special:** Every frame matters—optimized for pure performance.
+</details>
 
-### 🤖 Full-Stack AI Chatbot
+<details>
+<summary><b>🤖 Full-Stack AI Chatbot</b></summary>
+
 ```yaml
 Project: AI Chatbot Integration
 Vision: Seamless human-AI conversation
@@ -89,8 +128,11 @@ Stack: Python | OpenAI API | Full-Stack
 Link: https://github.com/loukas-vetoulis/Ai-Chatbot
 ```
 **What makes it special:** Bridge between human intent and machine capability.
+</details>
 
-### 🎯 Optimized A* Pathfinding
+<details>
+<summary><b>🎯 Optimized A* Pathfinding</b></summary>
+
 ```yaml
 Project: A* Algorithm Implementation
 Vision: Intelligent navigation solution  
@@ -99,8 +141,11 @@ Stack: Java | Algorithm Design
 Link: https://github.com/loukas-vetoulis/AUEB-Ai-Project-Assigment
 ```
 **What makes it special:** Mathematical elegance meets practical efficiency.
+</details>
 
-### 🌐 Distributed System Architecture
+<details>
+<summary><b>🌐 Distributed System Architecture</b></summary>
+
 ```yaml
 Project: FreeFooders
 Vision: Scalable distributed computing
@@ -109,16 +154,21 @@ Stack: Java | Distributed Architecture
 Link: https://github.com/loukas-vetoulis/FreeFooders
 ```
 **What makes it special:** Built for scale, designed for resilience.
+</details>
 
 ---
 
 ## 🎓 **Academic Excellence**
 
+<div align="center">
+
 ### 🏛️ **Athens University of Economics & Business**
 *B.Sc. in Informatics* | 2022 – Present
 
+</div>
+
 | 🏅 **Achievement** | 📊 **Metric** |
-|:---:|:---:|
+|:---|:---:|
 | **Competitive Admission** | Ranked **51st** nationally |
 | **Panhellenic Excellence** | **1st place** in Economics & Informatics |
 | **Mathematical Recognition** | Multiple **HMS** commendations |
@@ -128,9 +178,16 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 
 ## 🌍 **Beyond the Code**
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🗣️ **Languages**
 - 🇬🇷 **Greek** (Native fluency)
 - 🇺🇸 **English** (Professional - B2 Certified)
+
+</td>
+<td width="50%">
 
 ### 🎯 **Passions**
 - 💻 Continuous learning & innovation
@@ -138,9 +195,15 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 - 🎬 Cinema & storytelling
 - 📚 Literature & knowledge
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🤝 **Let's Create Something Extraordinary**
+
+<div align="center">
 
 ### Ready for clarity in your next project?
 
@@ -158,7 +221,11 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 [![Direct Contact](https://img.shields.io/badge/Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loukasvetoulis@gmail.com)
 [![Professional Network](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loukas-vetoulis)
 
+</div>
+
 ---
+
+<div align="center">
 
 *"Simplicity crafted through vision and precision."*
 
