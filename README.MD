@@ -4,6 +4,7 @@
 
 Software Engineer crafting elegant solutions through precision and clarity. Based in Athens, Greece.
 
+
 ---
 
 ## Philosophy
