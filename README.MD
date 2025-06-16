@@ -218,12 +218,9 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 </div>
 
 <div align="center">
-
-```
 🎯 Available for: Custom Software Development
 🔧 Specializing in: Automation • AI Integration • System Architecture  
 📅 Approach: Listen First • Design Smart • Build Right
-```
 </div>
 **Get in touch:**
 
