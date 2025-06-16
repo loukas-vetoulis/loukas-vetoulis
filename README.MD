@@ -5,8 +5,7 @@
 <pre align="center">
 ╔═══════════════════════════════════════════════════════════════╗
 ║                    S O F T W A R E   E N G I N E E R          ║
-║                                                               ║
-║              "Simplicity is the ultimate sophistication"     ║
+║                                                               ║║              "Simplicity is the ultimate sophistication"      ║
 ║                            — Steve Jobs                       ║
 ╚═══════════════════════════════════════════════════════════════╝
 
