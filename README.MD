@@ -215,6 +215,8 @@ Link: https://github.com/loukas-vetoulis/FreeFooders
 ### Ready for clarity in your next project?
 
 *If you value thoughtful, business-driven software that delivers quiet power through elegant simplicity—let's start a conversation.*
+</div>
+
 <div align="center">
 
 ```
