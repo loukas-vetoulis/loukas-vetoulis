@@ -35,7 +35,7 @@ def text_path(font, s, size, x, y, tracking=0.0, anchor="middle"):
     return pen.getCommands(), total
 
 # ---------------------------------------------------------------- the shapes
-N = 900
+N = 600
 TAU = math.tau
 golden = math.pi * (3 - math.sqrt(5))
 
@@ -127,9 +127,10 @@ for i in range(N):
         x, y, a, s = project(shapes[shape][i], ry, tx)
         if i == HOME and shape == "globe":
             a, s = 1.0, 2.4
-        frames.append(f"{t / T * 100:.1f}%{{translate:{x:.1f}px {y:.1f}px;scale:{s:.1f};opacity:{a:.1f}}}")
+        n = lambda v: __import__("re").sub(r"^(-?)0\.", r"\1.", f"{v:.1f}".rstrip("0").rstrip(".")) or "0"
+        frames.append(f"{n(t / T * 100)}%{{translate:{round(x)}px {round(y)}px;scale:{n(s)};opacity:{n(a)}}}")
     css.append(f"@keyframes k{i}{{{''.join(frames)}}}.d{i}{{animation:k{i} {T}s ease-in-out infinite}}")
-    dots.append(f'<circle class="d{i}" r="1.1"/>')
+    dots.append(f'<circle class="d{i}" r="1.2"/>')
 
 # ---------------------------------------------------------------- the words
 name, _ = text_path(LIGHT, "LOUKAS-NIKOLAOS VETOULIS", 13, CX, 64, tracking=0.42)
