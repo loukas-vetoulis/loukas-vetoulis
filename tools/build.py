@@ -86,26 +86,28 @@ shapes["globe"][HOME] = home
 # ---------------------------------------------------------------- the journey
 W, H = 800, 600
 CX, CY, R = W / 2, 292, 150
-T = 26  # seconds per loop
+T = 16  # seconds per loop
 
-# (time, shape, rotY, tiltX)
+# (time, shape, rotY, tiltX, how the next segment moves)
+#   "ease" for a change of form, "linear" for a steady turn
 FACE = LON + math.pi / 2
+E, L = "ease-in-out", "linear"
 KEYS = [
-    (0.0,  "point",  0.0,  0.35),
-    (1.6,  "inhale", 0.0,  0.35),
-    (3.2,  "point",  0.0,  0.35),
-    (5.2,  "line",   0.0,  0.35),
-    (6.6,  "line",   0.0,  0.35),
-    (8.6,  "circle", 0.0,  0.0),
-    (10.0, "circle", 0.0,  0.0),
-    (12.2, "sphere", 0.5,  0.35),
-    (13.4, "sphere", 0.8,  0.35),
-    (15.6, "globe",  FACE - 0.6, 0.35),
-    (18.0, "globe",  FACE - 0.15, LAT * 0.8),
-    (20.6, "globe",  FACE,  LAT),
-    (24.0, "point",  FACE,  0.35),
-    (24.8, "inhale", FACE,  0.35),
-    (26.0, "point",  FACE,  0.35),
+    (0.0,  "point",  0.0,  0.35, E),
+    (1.4,  "line",   0.0,  0.35, L),
+    (2.1,  "line",   0.0,  0.35, E),
+    (3.5,  "circle", 0.0,  0.0,  L),
+    (4.2,  "circle", 0.0,  0.0,  E),
+    (5.6,  "sphere", 0.30, 0.35, L),
+    (6.6,  "sphere", 0.55, 0.35, E),
+    (8.0,  "globe",  FACE - 0.95, 0.35, L),
+    (9.2,  "globe",  FACE - 0.62, 0.45, L),
+    (10.4, "globe",  FACE - 0.30, 0.55, L),
+    (11.6, "globe",  FACE - 0.06, 0.64, E),
+    (12.4, "globe",  FACE,        LAT,  E),
+    (14.0, "point",  FACE, 0.35, E),
+    (15.0, "inhale", FACE, 0.35, E),
+    (16.0, "point",  FACE, 0.35, E),
 ]
 
 def project(p, rotY, tiltX):
@@ -123,12 +125,12 @@ def project(p, rotY, tiltX):
 css, dots = [], []
 for i in range(N):
     frames = []
-    for t, shape, ry, tx in KEYS:
+    for t, shape, ry, tx, ease in KEYS:
         x, y, a, s = project(shapes[shape][i], ry, tx)
         if i == HOME and shape == "globe":
             a, s = 1.0, 2.4
         n = lambda v: __import__("re").sub(r"^(-?)0\.", r"\1.", f"{v:.1f}".rstrip("0").rstrip(".")) or "0"
-        frames.append(f"{n(t / T * 100)}%{{translate:{round(x)}px {round(y)}px;scale:{n(s)};opacity:{n(a)}}}")
+        frames.append(f"{n(t / T * 100)}%{{translate:{round(x)}px {round(y)}px;scale:{n(s)};opacity:{n(a)}{';animation-timing-function:linear' if ease == L else ''}}}")
     css.append(f"@keyframes k{i}{{{''.join(frames)}}}.d{i}{{animation:k{i} {T}s ease-in-out infinite}}")
     dots.append(f'<circle class="d{i}" r="1.2"/>')
 
@@ -154,7 +156,7 @@ header = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" vi
 <style>
   circle{{fill:{INK}}}
   .q{{animation:q {T}s ease-in-out infinite}}
-  @keyframes q{{{window(15.8, 17.8, 21.6, 23.2)}}}
+  @keyframes q{{{window(8.8, 10.0, 12.6, 13.6)}}}
   .cue{{animation:c 3.2s ease-in-out infinite;transform-origin:{CX}px {H - 64}px}}
   @keyframes c{{0%{{opacity:0;transform:scaleY(0)}}30%,70%{{opacity:.7;transform:scaleY(1)}}100%{{opacity:0;transform:translateY(14px)}}}}
   {"".join(css)}
